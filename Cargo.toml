@@ -1,0 +1,8 @@
+[package]
+name = "ternary-electromagnetism"
+version = "0.1.0"
+edition = "2021"
+description = "EM field simulation on ternary lattices"
+license = "MIT"
+
+[dependencies]
